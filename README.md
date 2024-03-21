@@ -1,5 +1,6 @@
 # Template: Minimalist "Artist Portfolio" (Static Web Page, HTML/CSS)
 <center><img src="ezgif-7-aca9c7888d.gif" height="200"> <sub>Sample logo created in Canva</sub></center><br><br>
+<a href="https://taylor-true.github.io/portfolio-template">Demo</a><br><br>
 
 Simple yet dynamic portfolio, well-suited for visual showcases (illustration, graphic design, photography). Includes customizable social media links, multiple page tabs, and mobile device compatibility. 
 <br>
