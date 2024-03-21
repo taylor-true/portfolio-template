@@ -5,7 +5,7 @@ Simple yet dynamic portfolio, well-suited for visual showcases (illustration, gr
 <br>
 I initially built this webpage code for personal use to display my digital illustrations and logo designs. Said project is currently in-progress! 
 <br>
-Future updates: incorporating more advanced web design features (interactivity, improved accessibility, image upload functions) 
+Future updates: incorporating more advanced web design features (interface enhacement, improved accessibility, image upload functions) 
 
 <br><br>
 Commissions tab:<br>
